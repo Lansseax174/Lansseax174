@@ -9,9 +9,9 @@
 
 - 📫 My Email **dengwen.lance@foxmail.com**
 
-- ⚡ Fun fact **A sense of accomplishment is at the heart of coding work**
+- ⚡ **A sense of accomplishment is at the heart of coding work**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on WeChat: LifeLineMors174</h3>
 <p align="left">
 </p>
 
