@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lance/Lansseax</h1>
-<h3 align="center">主力使用Python的中国在读大学生</h3>
+<h3 align="center">Python User</h3>
 
 - 🔭 I’m currently studying at **Guangdong University of Technology**
 
@@ -8,8 +8,7 @@
 - 📝 I regularly write articles on my blog: [www.abc1131245123.com](www.abc1131245123.com)
 
 - 📫 My Email **dengwen.lance@foxmail.com**
-
-- ⚡ **A sense of accomplishment is at the heart of coding work**
+sere heart of coding work**
 
 <h3 align="left">Connect with me on WeChat: LifeLineMors174</h3>
 <p align="left">
